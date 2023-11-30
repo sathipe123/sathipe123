@@ -2,6 +2,7 @@
 - 🔭 I’m currently working on Flutter Developer
 - 🌱 I’m currently learning Firebse and advanced Mobile App Development.
 - 📫 How to reach me: https://www.instagram.com/06_sat/
+- 📫 Visit My Linked:
 - 💬 See my about : https://sathipe123.github.io/TaskPortfolio-CodeClause-Jan-23-Web/
 
 <!--
