@@ -1,20 +1,20 @@
 ### Hi there  I am Sahil👋
 
-🚀 Passionate Software Developer since 2020 🚀
+- 🚀 Passionate Software Developer since 2020 🚀
 
-🔷 Flutter Developer since 2023 🔷
+- 🔷 Flutter Developer since 2023 🔷
 
-📱 Android App Enthusiast by Heart ❤️
+- 📱 Android App Enthusiast by Heart ❤️
 
-🙌 Naturally Helpful Personality 🙌
+- 🙌 Naturally Helpful Personality 🙌
 
-🤝 Connect with me on [LinkedIn][1]
+- 🤝 Connect with me on [LinkedIn][1]
 
-📧 Reach out to me at ***sahilathipe@gmail.com***
+- 📧 Reach out to me at ***sahilathipe@gmail.com***
 
-🌐 Social Networking on [Facebook][2]
+- 🌐 Social Networking on [Facebook][2]
 
-🌐 Social Networking on [Instagram][3]
+- 🌐 Social Networking on [Instagram][3]
 
 [1]: https://www.linkedin.com/in/sahil-thipe/
 [2]: https://www.facebook.com/sahil.thipe/
