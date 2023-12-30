@@ -23,6 +23,7 @@
 [3]: https://www.instagram.com/06_sat/
 <!--
 **sathipe123/sathipe123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Stats on GitHub](https://github-readme-stats.vercel.app/api?username=sathipe123&show_icons=true&hide_border=true)
 
 Here are some ideas to get you started:
 
