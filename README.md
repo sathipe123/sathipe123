@@ -15,6 +15,8 @@
 - 🌐 Social Networking on [Facebook][2]
 
 - 🌐 Social Networking on [Instagram][3]
+ 
+[![@sathipe123's Holopin badges](https://holopin.me/sathipe123)](https://holopin.io/@sathipe123)
 
 [1]: https://www.linkedin.com/in/sahil-thipe/
 [2]: https://www.facebook.com/sahil.thipe/
