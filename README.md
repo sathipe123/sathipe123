@@ -1,4 +1,4 @@
-### Hi there  I am Sahil👋
+## Hey, I am Sahil👋..
 
 - 🔭 I’m currently working on -Flutter Developer at WeXL 🚀
 
@@ -12,7 +12,7 @@
 
 - 📧 Reach out to me at ***sahilathipe@gmail.com***
 
-### 🤝 Connect with me on:
+## 🤝 Connect with me on:
 <div id="badges">
   <a href="https://github.com/sathipe123">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
@@ -31,12 +31,13 @@
   </a>
 </div>
 
-### Languages and Tools:
+## 💻 My Skills:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,gradle,vscode,androidstudio,html,css,javascript)](https://skillicons.dev)
 
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sathipe123&show_icons=true&theme=dark)
+## 📊 GitHub Stats:
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathipe123&theme=radical&hide_border=false" height=150px><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathipe123&theme=dark)
+<br>
 
 
 <!--
