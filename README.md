@@ -40,9 +40,9 @@
 <br>
 
 ## 📊 GitHub Stats:
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathipe123&theme=radical&hide_border=false" height=150px><br/>
+![sathipe123's Stats](https://github-readme-stats.vercel.app/api?username=sathipe123&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
 
-<br>
+
 
 
 <!--
