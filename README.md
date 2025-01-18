@@ -1,6 +1,6 @@
 ## Hey, I am Sahil👋..
 
-- 🔭 I’m currently working on -Flutter Developer at WeXL 🚀
+- 🔭 I’m currently working on -Flutter Developer  🚀
 
 - 🔷 Flutter Developer since 2023 🔷
 
