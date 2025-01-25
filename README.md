@@ -42,6 +42,12 @@
 ## 📊 GitHub Stats:
 ![sathipe123's Stats](https://github-readme-stats.vercel.app/api?username=sathipe123&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
 
+<br>
+
+## My Google Developer Profile Badges
+[![Google Developer Badge](https://developers.google.com/profile/badges/community/gde/follower)]([https://g.dev/YOUR_PROFILE](https://developers.google.com/profile/u/sat06))
+
+
 
 
 
