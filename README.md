@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
 ## Hey, I am Sahil👋..
 
 - 🔭 I’m currently working on -Flutter Developer  🚀
@@ -43,6 +47,10 @@
 ![sathipe123's Stats](https://github-readme-stats.vercel.app/api?username=sathipe123&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
 
 <br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 
 
